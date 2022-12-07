@@ -15,4 +15,8 @@ const ART = [
    "filename" : "deer.txt",
    "credit_text" : "",
    "credit_url": "https://www.asciiart.eu/animals/deer"},
+    {"title": "Cat",
+   "filename" : "cat.txt",
+   "credit_text" : "",
+   "credit_url": "https://www.asciiart.eu/animals/cat"}
 ];
